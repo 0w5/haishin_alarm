@@ -9,6 +9,10 @@
    Files smaller than 1 MB can be uploaded to the ESP32 with the Arduino IDE plugin of arduino-esp32fs-plugin.
    https://github.com/me-no-dev/arduino-esp32fs-plugin
 */
+/*
+  Natori Sana no Alarm...
+  Sanalarm...w
+ */
 #include <Arduino.h>
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
